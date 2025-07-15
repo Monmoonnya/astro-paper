@@ -18,14 +18,14 @@ interface Social {
 
 export const SOCIALS: Social[] = [
   {
-    name: "GitHub",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on GitHub`,
+    name: "Bluesky",
+    href: "https://bsky.app/profile/monmoon-nya.bsky.social",
+    linkTitle: `${SITE.title} on Bluesky`,
     icon: IconGitHub,
   },
   {
     name: "X",
-    href: "https://x.com/username",
+    href: "https://x.com/Elpsy0390",
     linkTitle: `${SITE.title} on X`,
     icon: IconBrandX,
   },
@@ -37,7 +37,7 @@ export const SOCIALS: Social[] = [
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
+    href: "mailto:2067589558a@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
     icon: IconMail,
   },
