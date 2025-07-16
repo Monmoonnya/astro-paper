@@ -30,12 +30,6 @@ export const SOCIALS: Social[] = [
     icon: IconBrandX,
   },
   {
-    name: "LinkedIn",
-    href: "https://www.linkedin.com/in/username/",
-    linkTitle: `${SITE.title} on LinkedIn`,
-    icon: IconLinkedin,
-  },
-  {
     name: "Mail",
     href: "mailto:2067589558a@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
